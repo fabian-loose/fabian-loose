@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, ich bin Fabian 👋
 
-<!--
-**fabian-loose/fabian-loose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Fullstack-Entwicklerin für Desktop-Anwendungen mit Python,
+Fokus auf saubere Architektur und industrielle Gerätekommunikation.
 
-Here are some ideas to get you started:
+**Aktuell beschäftige ich mich mit**
+- Desktop-Anwendungen mit PySide6
+- Sauberer Architektur (Hexagonal, MVVM)
+- Gerätekommunikation via OPC UA, seriell und Ethernet
+  (Multimeter, Sensoren, Motorsteuerungen)
+- FastAPI und Async-Python
+- LLM-Integration und RAG
+- Modernem Python-Tooling (uv, ruff, ty)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech-Stack**
+Python · PySide6 · OPC UA · FastAPI · PostgreSQL · Docker · pytest · uv

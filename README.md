@@ -1,6 +1,6 @@
 ## Hi, ich bin Fabian 👋
 
-Ich bin Fullstack-Entwicklerin für Desktop-Anwendungen mit Python,
+Ich bin Fullstack-Entwickler für Desktop-Anwendungen mit Python,
 Fokus auf saubere Architektur und industrielle Gerätekommunikation.
 
 **Aktuell beschäftige ich mich mit**
